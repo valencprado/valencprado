@@ -4,7 +4,7 @@
 
 - 📝Beginner at programming
 - 🎯Learning C#, Android, PHP, 
-- ✅Main Languages: PHP, Java, web development in general)
+- ✅Main Languages: PHP, Java, web development in general
 
 
 
@@ -23,11 +23,16 @@
   <img src ="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
+ ![Github Stats](https://github-readme-stats.vercel.app/api/?username=valencprado&theme=great-gatsby&show_icons=true)
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valencprado&layout=compact&langs_count=12&theme=dark&)
 
-
- ![Github Stats](https://github-readme-stats.vercel.app/api/?username=valencprado&theme=github_dark)
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valencprado&layout=compact&langs_count=12&theme=tokyonight&exclude_repo=)
-
+# Contact me :)
+<p align="center" style="display: flex;">
+ <a href = "mailto:valenpschool@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/valentinacprado"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+</p>
+  ![Snake animation](https://github.com/valencprado/valencprado/blob/output/github-contribution-grid-snake.svg)
 
