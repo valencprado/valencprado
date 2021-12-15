@@ -4,7 +4,7 @@
 **she/her**
 
 - 📝Beginner at programming
-- 🎯Learning C#, Android, PHP, 
+- 🎯Learning C#, Android, PHP, Python, database
 - ✅Main Languages: PHP, Java, web development in general
 # Contact me :)
 <div>
