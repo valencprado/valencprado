@@ -1,4 +1,4 @@
-### Hi! 👋 My name is Valentina
+## Hi! 👋 My name is Valentina
  ![Profile views](https://gpvc.arturio.dev/valencprado)
  
 **she/her**
@@ -33,7 +33,15 @@
 
  ![Github Stats](https://github-readme-stats.vercel.app/api/?username=valencprado&theme=great-gatsby&show_icons=true)
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valencprado&layout=compact&langs_count=12&theme=dark&)
-
-
+## TOP REPOSITORIES
+<a href="https://github.com/valencprado/LojaPHP">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=lojaPHP&theme=dark" />
+ </a>
+ <a href="https://github.com/valencprado/iniciodeumsonho">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=iniciodeumsonho&theme=dark" />
+ </a>
+ 
+ 
+ 
   ![Snake animation](https://github.com/valencprado/valencprado/blob/output/github-contribution-grid-snake.svg)
 
