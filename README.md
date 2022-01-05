@@ -1,5 +1,5 @@
 ## Hi! 👋 My name is Valentina
- ![Profile views](https://gpvc.arturio.dev/valencprado)
+
  
 **she/her**
 
