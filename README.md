@@ -1,12 +1,16 @@
-## Hi! 👋 My name is Valentina
+![github](https://user-images.githubusercontent.com/85965282/149160327-eed873d6-aa34-43fe-ad97-501f05397116.png)
 
  
 **she/her**
-
+<img align="right" src="https://user-images.githubusercontent.com/85965282/149155028-421df241-3b9b-4959-b089-02e94ca326f2.gif">
 - 📝Beginner at programming
-- 🎯Learning C#, Android, PHP, Python, database
+- 🎯Learning C#, Android, PHP, Python, SQL
 - ✅Main Languages: PHP, Java, web development in general
-# Contact me :)
+
+
+
+
+## Contact me :)
 <div>
 <p align="center" style="display: flex;">
  <a href = "mailto:valenpschool@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -14,7 +18,7 @@
 </p>
  </div>
 
-# SKILLS
+## SKILLS
 <p align="center" style="display: flex;">
  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -31,14 +35,14 @@
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
- ![Github Stats](https://github-readme-stats.vercel.app/api/?username=valencprado&theme=great-gatsby&show_icons=true)
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valencprado&layout=compact&langs_count=12&theme=dark&)
+ ![Github Stats](https://github-readme-stats.vercel.app/api/?username=valencprado&t&show_icons=true&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000)
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valencprado&layout=compact&langs_count=12&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000)
 ## TOP REPOSITORIES
 <a href="https://github.com/valencprado/LojaPHP">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=lojaPHP&theme=dark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=lojaPHP&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
  </a>
  <a href="https://github.com/valencprado/iniciodeumsonho">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=iniciodeumsonho&theme=dark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=iniciodeumsonho&&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
  </a>
  
  
