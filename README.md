@@ -41,8 +41,8 @@
 <a href="https://github.com/valencprado/LojaPHP">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=lojaPHP&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
  </a>
- <a href="https://github.com/valencprado/iniciodeumsonho">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=iniciodeumsonho&&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
+ <a href="https://github.com/valencprado/python-exercises">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=python-exercises&&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
  </a>
  
  
