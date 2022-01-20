@@ -31,6 +31,9 @@
 ## Stats 📈
  ![Github Stats](https://github-readme-stats.vercel.app/api/?username=valencprado&t&show_icons=true&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000)
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valencprado&layout=compact&langs_count=12&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000)
+ [![Valen's github activity graph](https://activity-graph.herokuapp.com/graph?username=valencprado&bg_color=000000&color=ffffff&line=ffd100&point=FFFFFF&area=true&hide_border=true&area_color=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## TOP REPOS
 <a href="https://github.com/valencprado/LojaPHP">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=lojaPHP&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
