@@ -48,8 +48,7 @@
  <a href="https://github.com/valencprado/python-exercises">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=python-exercises&&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
  </a>
- 
-   ![Snake animation](https://github.com/valencprado/valencprado/blob/output/github-contribution-grid-snake.svg)
+
  
 ## Contact me :)
 <div>
@@ -58,6 +57,10 @@
 <a href="www.linkedin.com/in/valentinacprado"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 </p>
  </div>
+ 
+ # 🐍 
+ 
+ ![Snake animation](https://github.com/valencprado/valencprado/blob/output/github-contribution-grid-snake.svg)
 
  
 
