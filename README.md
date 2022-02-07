@@ -10,7 +10,8 @@ const pronouns = "she/her"
 
 
 <img align="right" src="https://user-images.githubusercontent.com/85965282/149155028-421df241-3b9b-4959-b089-02e94ca326f2.gif">
-<br />
+
+
 - 📝Beginner at programming
 - 🎯Learning C#, Android, PHP, Python, SQL
 - ✅Main Languages: PHP, Java, web development in general
