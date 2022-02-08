@@ -15,6 +15,7 @@ const pronouns = "she/her"
 - 📝Beginner at programming
 - 🎯Learning C#, Android, PHP, Python, SQL
 - ✅Main Languages: PHP, Java, web development in general
+- 🔥Constantly learning!
 
  <br /> <br />
 
