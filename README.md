@@ -5,7 +5,8 @@
  <br />
  
 ```javascript  
-const pronouns = "she/her"
+const pronouns = "she/her";
+let age = 17;
 ```
 
 
