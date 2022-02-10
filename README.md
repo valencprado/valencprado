@@ -55,8 +55,8 @@ let age = 17;
 <a href="https://github.com/valencprado/personal-website">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=personal-website&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
  </a>
- <a href="https://github.com/valencprado/python-exercises">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=python-exercises&&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
+ <a href="https://github.com/valencprado/sql-colinha">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=sql-colinha&&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
  </a>
 
  
