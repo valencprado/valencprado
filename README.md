@@ -73,5 +73,7 @@ let age = 17;
  ![Snake animation](https://github.com/valencprado/valencprado/blob/output/github-contribution-grid-snake.svg)
 
  
-
+```python
+bye =  'Thanks for the attention! :)'
+```
 
