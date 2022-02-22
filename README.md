@@ -48,8 +48,10 @@ let age = 17;
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valencprado&layout=compact&langs_count=12&count_private=true&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000)
  [![Valen's github activity graph](https://activity-graph.herokuapp.com/graph?username=valencprado&count_private=true&bg_color=000000&color=ffffff&line=ffd100&point=FFFFFF&area=true&hide_border=true&area_color=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- 
+  <img src="https://github-profile-trophy.vercel.app/?username=valencprado&theme=dark&column=7" height="150" style="border-radius:50px;"/>
  </div>
+
+  <img src="https://github.com/valencprado/valencprado/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 
 ## TOP REPOS
@@ -77,4 +79,5 @@ let age = 17;
 ```python
 bye =  'Thanks for the attention! :)'
 ```
+ <img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 100%;">
 
