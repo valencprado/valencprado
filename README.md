@@ -12,14 +12,7 @@ let age = 17;
 
 <img align="right" src="https://user-images.githubusercontent.com/85965282/149155028-421df241-3b9b-4959-b089-02e94ca326f2.gif">
 
-
-- 📝Beginner at programming
-- 🎯Learning C#, Android, PHP, Python, SQL
-- ✅Main Languages: PHP, Java, web development in general
-- 🔥Constantly learning!
-
  <br /> <br />
-
 
 ## Skills 🎯
 <p align="center" style="display: flex;">
@@ -79,8 +72,7 @@ let age = 17;
  ![Snake animation](https://github.com/valencprado/valencprado/blob/output/github-contribution-grid-snake.svg)
 
  
-```python
-bye =  'Thanks for the attention! :)'
-```
- <img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 100%;">
+<img src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif"> 
+
+<img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 100%;">
 
