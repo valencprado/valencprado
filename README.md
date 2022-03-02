@@ -5,8 +5,13 @@
  <br />
  
 ```javascript  
-const pronouns = "she/her";
-let age = 17;
+let valen {
+name: "Valentina",
+age: 17,
+country: "Brazil",
+pronouns: "she/her"
+
+};
 ```
 
 
