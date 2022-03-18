@@ -1,5 +1,5 @@
 ![github](https://user-images.githubusercontent.com/85965282/149160327-eed873d6-aa34-43fe-ad97-501f05397116.png)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=valencprado&color=yellow" alt="Profile views" /> </p>
+
  
  
  <br />
