@@ -1,8 +1,13 @@
 ![github](https://user-images.githubusercontent.com/85965282/149160327-eed873d6-aa34-43fe-ad97-501f05397116.png)
 
+
+<div align="center">
+ 🎧🥳
  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jvujyizt9jry8gqd8aqrun4kv&cover_image=true&theme=novatorem&bar_color=ffd100&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
  
- <br />
+ </div>
+
  
 ```javascript  
 let valen {
