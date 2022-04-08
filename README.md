@@ -1,12 +1,6 @@
 ![github](https://user-images.githubusercontent.com/85965282/149160327-eed873d6-aa34-43fe-ad97-501f05397116.png)
 
 
-<div align="center">
- 🎧🥳
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jvujyizt9jry8gqd8aqrun4kv&cover_image=true&theme=novatorem&bar_color=ffd100&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
- 
- </div>
 
  
 ```javascript  
@@ -79,6 +73,12 @@ pronouns: "she/her"
  # 🐍 
  
  ![Snake animation](https://github.com/valencprado/valencprado/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+ 🎧🥳
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jvujyizt9jry8gqd8aqrun4kv&cover_image=true&theme=novatorem&bar_color=ffd100&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ 
+ </div>
 
  
 <img src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif"> 
