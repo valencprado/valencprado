@@ -76,7 +76,6 @@ pronouns: "she/her"
 <div align="center">
  🎧🥳
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jvujyizt9jry8gqd8aqrun4kv&cover_image=true&theme=novatorem&bar_color=ffd100&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
  
  </div>
 
