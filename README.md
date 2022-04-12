@@ -74,7 +74,7 @@ pronouns: "she/her"
  
  ![Snake animation](https://github.com/valencprado/valencprado/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
- 🎧🥳
+
  
  
  </div>
