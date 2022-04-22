@@ -41,7 +41,7 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 <div align="center">
 
  
- ![Github Stats](https://github-readme-stats.vercel.app/api/?username=valencprado&count_private=truet&show_icons=true&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000&)
+ ![Github Stats](https://github-readme-stats.vercel.app/api/?username=valencprado&count_private=true&layout=compact&show_icons=true&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000&)
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valencprado&layout=compact&langs_count=12&count_private=true&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000)
  
 ## Trophies 🏆
@@ -51,6 +51,9 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 ## 3D Contribution 😎
 
   <img src="https://github.com/valencprado/valencprado/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+<a href="http://www.github.com/valencprado"><img src="https://activity-graph.herokuapp.com/graph?username=valencprado&bg_color=000&color=ffffff&line=ffd100&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 
 ## TOP REPOS
