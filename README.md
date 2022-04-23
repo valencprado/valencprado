@@ -13,10 +13,17 @@ pronouns: "she/her",
 skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 };
 ```
-
+<div>
+<p align="center" style="display: flex;">
+ <a href = "mailto:valenpschool@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/valentinacprado"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+</p>
+ </div>
 <img align="right" src="https://user-images.githubusercontent.com/85965282/149155028-421df241-3b9b-4959-b089-02e94ca326f2.gif">
 </div>
  <br /> <br />
+
+
 
 ## Skills 🎯
 <p align="center" style="display: flex;">
@@ -64,14 +71,7 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=sql-colinha&&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
  </a>
 
- 
-## Contact me :)
-<div>
-<p align="center" style="display: flex;">
- <a href = "mailto:valenpschool@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/valentinacprado"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-</p>
- </div>
+
  
  # 🐍 
  
