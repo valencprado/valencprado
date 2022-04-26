@@ -25,7 +25,7 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 
 
 
-## Skills 🎯
+## 🎯 Skills 
 <p align="center" style="display: flex;">
  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -43,19 +43,21 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 </p>
 
 
-## Stats 📈
+## 📈 Stats 
 
 <div align="center">
 
  
  ![Github Stats](https://github-readme-stats.vercel.app/api/?username=valencprado&count_private=true&layout=compact&show_icons=true&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000&)
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valencprado&layout=compact&langs_count=12&count_private=true&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000)
- 
-## Trophies 🏆
+  </div>
+  
+  
+## 🏆 Trophies 
   <img src="https://github-profile-trophy.vercel.app/?username=valencprado&theme=dark&column=7" height="150" style="border-radius:50px;"/>
- </div>
+
  
-## 3D Contribution 😎
+## 😎 3D Contribution 
 
   <img src="https://github.com/valencprado/valencprado/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
@@ -63,7 +65,7 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 
 
 
-## TOP REPOS
+## 🥇 TOP REPOS
 <a href="https://github.com/valencprado/personal-website">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=personal-website&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
  </a>
