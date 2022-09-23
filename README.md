@@ -7,7 +7,7 @@
 // a brief description:
 let valen {
 name: "Valentina",
-age: 17,
+age: 18,
 country: "Brazil",
 pronouns: "she/her",
 skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
