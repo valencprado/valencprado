@@ -46,7 +46,6 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 
   <img src="https://github.com/valencprado/valencprado/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
-<a href="http://www.github.com/valencprado"><img src="https://activity-graph.herokuapp.com/graph?username=valencprado&count_private=true&bg_color=000&color=ffffff&line=ffd100&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
