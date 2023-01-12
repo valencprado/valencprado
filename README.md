@@ -28,15 +28,6 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 ## 🎯 Skills 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cs,figma,git,md,mysql,nodejs,php,py,react,tailwind,ts&theme=dark)](https://skills.thijs.gg)
 
-## 📈 Stats 
-
-<div align="center">
-
- 
- ![Github Stats](https://github-readme-stats.vercel.app/api/?username=valencprado&count_private=true&layout=compact&show_icons=true&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000&)
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valencprado&layout=compact&langs_count=12&count_private=true&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000)
-  </div>
-  
   
 ## 🏆 Trophies 
   <img src="https://github-profile-trophy.vercel.app/?username=valencprado&theme=dark&column=7" height="150" style="border-radius:50px;"/>
@@ -45,17 +36,6 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 ## 😎 3D Contribution 
 
   <img src="https://github.com/valencprado/valencprado/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-
-
-
-
-## 🥇 TOP REPOS
-<a href="https://github.com/valencprado/personal-website">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=personal-website&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
- </a>
- <a href="https://github.com/valencprado/sql-colinha">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valencprado&repo=sql-colinha&&title_color=ffd100&icon_color=ffd100&text_color=fff&bg_color=000" />
- </a>
 
 
  
