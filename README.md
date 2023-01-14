@@ -35,9 +35,7 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 ## 📈Stats
 ![Valentina Prado's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valencprado&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valencprado&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-## 😎 3D Contribution 
 
-  <img src="https://github.com/valencprado/valencprado/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 
  
@@ -49,9 +47,9 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
  
  
  </div>
-
+<div style="display: flex">
  
 <img src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif"> 
 
 <img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 100%;">
-
+</div>
