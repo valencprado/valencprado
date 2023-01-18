@@ -34,7 +34,6 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 
 ## 📈Stats
 ![Valentina Prado's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valencprado&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valencprado&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
