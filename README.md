@@ -2,6 +2,7 @@
 
 
 
+
  
 ```javascript  
 // a brief description:
@@ -34,7 +35,7 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 
 ## 📈Stats
 ![Valentina Prado's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valencprado&show_icons=true&theme=radical)
-
+[![Valentina Prado's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@valencprado&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
