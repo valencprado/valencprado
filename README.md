@@ -34,7 +34,7 @@ skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
   <img src="https://github-profile-trophy.vercel.app/?username=valencprado&theme=dark&column=7" height="150" style="border-radius:50px;"/>
 
 ## 📈Stats
-![Valentina Prado's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valencprado&show_icons=true&theme=radical)
+![Valentina Prado's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valencprado&show_icons=true&theme=radical&count_private=true)
 [![Valentina Prado's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@valencprado&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
