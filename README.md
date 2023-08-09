@@ -36,7 +36,6 @@ bootcamps: ["Oracle Next Education", "Angular Developer (Potência Tech + iFood)
 
 ## 📈Stats
 ![Valentina Prado's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valencprado&count_private=true&show_icons=true&theme=great-gatsby)
-[![Valentina Prado's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@valencprado&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
