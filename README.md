@@ -8,11 +8,10 @@
 // a brief description:
 let valen {
 name: "Valentina",
-age: 18,
+age: 19,
 country: "Brazil",
 pronouns: "she/her",
-skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"],
-bootcamps: ["Oracle Next Education", "Angular Developer (Potência Tech + iFood)"],
+skills: ["HTML", "CSS", "Javascript", "C#", "ASP.NET", "MySQL"]
 };
 ```
 <div>
