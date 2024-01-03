@@ -20,7 +20,6 @@ skills: ["HTML", "CSS", "Javascript", "C#", "React", "Angular","SQL", "MySQL", "
 <a href="https://www.linkedin.com/in/valentinacprado"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 </p>
  </div>
-<img align="right" src="https://user-images.githubusercontent.com/85965282/149155028-421df241-3b9b-4959-b089-02e94ca326f2.gif">
 </div>
  <br /> <br />
 
@@ -28,6 +27,7 @@ skills: ["HTML", "CSS", "Javascript", "C#", "React", "Angular","SQL", "MySQL", "
 
 ## 🎯 Skills 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cs,figma,git,md,mysql,nodejs,php,py,react,tailwind,ts&theme=dark)](https://skills.thijs.gg)
+<img align="right" src="https://user-images.githubusercontent.com/85965282/149155028-421df241-3b9b-4959-b089-02e94ca326f2.gif">
 
   
 ## 🏆 Trophies 
