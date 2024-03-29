@@ -27,7 +27,7 @@ interests: ["Programming", "Web Development", "Machine Learning", "Communication
 
 
 ## 🎯 Skills 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cs,figma,git,md,mysql,nodejs,php,py,react,tailwind,ts&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,bootstrap,cs,php,py,c,md,figma,git,mysql,nodejs,express,react,angular,tailwind,azure,docker,next&theme=dark)](https://skills.thijs.gg)
 <img align="right" src="https://user-images.githubusercontent.com/85965282/149155028-421df241-3b9b-4959-b089-02e94ca326f2.gif">
 
   
