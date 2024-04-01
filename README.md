@@ -11,7 +11,7 @@ name: "Valentina",
 age: 19,
 country: "Brazil",
 pronouns: "she/her",
-mainSkills: ["HTML", "CSS", "Javascript", "C#", ".NET", React", "Angular", "SQL", "MySQL", "Digibee" ],
+mainSkills: ["HTML", "CSS", "Javascript", "C#", ".NET", "React", "Angular", "SQL", "MySQL", "Digibee" ],
 interests: ["Programming", "Web Development", "Machine Learning", "Communication"]
 };
 ```
