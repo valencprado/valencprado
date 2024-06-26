@@ -12,7 +12,7 @@ age: 19,
 country: "Brazil",
 pronouns: "she/her",
 mainSkills: ["HTML", "CSS", "Javascript", "C#", ".NET", "React", "Angular", "SQL", "MySQL", "Digibee" ],
-interests: ["Programming", "Web Development", "Machine Learning", "Communication"]
+interests: ["Programming", "Web Development", "Machine Learning", "GameDev", "Communication"]
 };
 ```
 <div>
@@ -28,7 +28,7 @@ interests: ["Programming", "Web Development", "Machine Learning", "Communication
 
 ## 🎯 Techs 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,cs,java,php,py,c,md,figma,git,mysql,nodejs,express,react,angular,tailwind,azure,docker,next&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,cs,java,php,py,c,md,figma,git,mysql,nodejs,express,react,angular,tailwind,azure,docker,next,godot&theme=dark)](https://skills.thijs.gg)
 
 <img align="right" src="https://user-images.githubusercontent.com/85965282/149155028-421df241-3b9b-4959-b089-02e94ca326f2.gif">
 
