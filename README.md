@@ -29,7 +29,7 @@ interests: ["Programming", "Web Development", "Machine Learning", "GameDev", "Co
 ## 🎯 Techs 
 
 
-### Main skills (professional and vast academic/learning experience) 
+### Main skills 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,cs,react,next,angular,md,figma,git,mysql,nodejs,express,tailwind,azure,docker&theme=dark)](https://skills.thijs.gg)
 
