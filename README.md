@@ -29,11 +29,11 @@ interests: ["Programming", "Web Development", "Machine Learning", "GameDev", "Co
 ## 🎯 Techs 
 
 
-### Main skills 
+### Main techs I work with/study/enjoy 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,cs,react,next,angular,md,figma,git,mysql,nodejs,express,tailwind,azure,docker&theme=dark)](https://skills.thijs.gg)
 
-### Others
+### Other techs (mostly from academic environment)
 [![My Skills](https://skillicons.dev/icons?i=java,php,py,c,docker,godot&theme=dark)](https://skills.thijs.gg)
 
 <img align="right" src="https://user-images.githubusercontent.com/85965282/149155028-421df241-3b9b-4959-b089-02e94ca326f2.gif">
