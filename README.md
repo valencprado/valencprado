@@ -45,6 +45,8 @@ interests: ["Programming", "Web Development", "Machine Learning", "GameDev", "Co
 ## 📈Stats
 ![Valentina Prado's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valencprado&count_private=true&show_icons=true&theme=great-gatsby)
 
+<a href="https://app.daily.dev/valentinaprado"><img src="https://api.daily.dev/devcards/v2/lKswsC4g2HZv4FXDUSWiQ.png?type=wide&r=itj" width="652" alt="Valentina Prado's Dev Card"/></a>
+
 
  
  </div>
