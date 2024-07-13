@@ -6,7 +6,7 @@
  
 ```javascript  
 // a brief description:
-let valen {
+let valen = {
 name: "Valentina",
 age: 19,
 country: "Brazil",
