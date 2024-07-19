@@ -19,6 +19,7 @@ interests: ["Programming", "Web Development", "Machine Learning", "GameDev", "Co
 <p align="center" style="display: flex;">
  <a href = "mailto:valentinacorradiniprado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/valentinacprado"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="https://medium.com/@valentinacorradiniprado"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Linkedin"/></a>
 </p>
  </div>
 </div>
