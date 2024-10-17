@@ -8,7 +8,7 @@
 // a brief description:
 let valen = {
 name: "Valentina",
-age: 19,
+age: 20,
 country: "Brazil",
 pronouns: "she/her",
 mainSkills: ["HTML", "CSS", "Javascript", "C#", ".NET", "React", "Angular", "SQL", "MySQL", "Digibee" ],
@@ -32,7 +32,7 @@ interests: ["Programming", "Web Development", "Machine Learning", "GameDev", "Co
 
 ### Main techs I work with/study/enjoy 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,angular,bootstrap,cs,md,figma,git,mysql,nodejs,express,tailwind,azure,docker,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,angular,bootstrap,cs,md,figma,git,mysql,nodejs,express,tailwind,aws,docker,&theme=dark)](https://skills.thijs.gg)
 
 ### Other techs (mostly from academic environment)
 [![My Skills](https://skillicons.dev/icons?i=java,php,py,c,arduino,godot&theme=dark)](https://skills.thijs.gg)
