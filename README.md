@@ -26,16 +26,23 @@ interests: ["Programming", "Web Development", "Machine Learning", "GameDev", "Co
  <br /> <br />
 
 
-
 ## 🎯 Techs 
 
 
-### Main techs I work with/study/enjoy 
+### ⭐ Favorites
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,angular,bootstrap,cs,md,figma,git,mysql,nodejs,express,tailwind,aws,docker,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,angular,bootstrap,md,figma,git&theme=dark)](https://skills.thijs.gg)
 
-### Other techs (mostly from academic environment)
-[![My Skills](https://skillicons.dev/icons?i=java,php,py,c,arduino,godot&theme=dark)](https://skills.thijs.gg)
+### 💼 Current work stack
+
+[![My Skills](https://skillicons.dev/icons?i=py,angular,git,aws,java,spring&theme=dark)](https://skills.thijs.gg)
+
+### 🛄 Previous experience
+[![My Skills](https://skillicons.dev/icons?i=next,react,ts,cs,docker&theme=dark)](https://skills.thijs.gg)
+
+
+### 🎓 Academic experience
+[![My Skills](https://skillicons.dev/icons?i=php,py,c,arduino,godot&theme=dark)](https://skills.thijs.gg)
 
 <img align="right" src="https://user-images.githubusercontent.com/85965282/149155028-421df241-3b9b-4959-b089-02e94ca326f2.gif">
 
